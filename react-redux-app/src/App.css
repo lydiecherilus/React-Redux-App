@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+}
+
+.teams {
+  text-align: center;
+  border: 3px solid blue;
+  color:whitesmoke;
+  background-color: rgb(172, 7, 7);
+  border-radius: 2px;
+  width: 400px;
+  margin: 4px;
+  border-radius: 30px;
+}
+
+.teamscard {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 3%;
+}
+
+.title {
+  color: blue;
+  font-size: 50px;
+}
+
+.title:hover {
+  color: red;
+  font-size: 60px;
+}
